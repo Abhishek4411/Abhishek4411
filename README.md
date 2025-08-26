@@ -52,8 +52,7 @@ I’m **Abhishek Patel**, a curious mind exploring **AI, Cloud, and Open Source*
     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px"/>
   </p>
 
-- 🐍 **Snake Eating My Contributions**  
-  *(Requires one-time GitHub Actions setup, but no external login)*  
+- 🐍 **Snake Eating My Contributions**   
   ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
