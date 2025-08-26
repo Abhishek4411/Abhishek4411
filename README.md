@@ -1,7 +1,7 @@
 <h1 align="left">Hey there, I'm Abhishek 👋</h1>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="350px"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Universe!;Exploring+AI+%26+Cloud+%26+Open+Source;Build.+Break.+Learn.+Repeat." alt="Typing SVG" />
 </p>
 
 ---
@@ -40,7 +40,7 @@ I’m **Abhishek Patel**, a curious mind exploring **AI, Cloud, and Open Source*
 ## 🎶 Sapphire Vibes  
 
 <p align="left">
-  <img src="https://media.giphy.com/media/fdGbhuUQpGQkKuuzGU/giphy.gif" width="300px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnM0bHcxZ2V4em0zNnJjN2dkdnFyaGtjcmhmcGlpeDQ0N2VvODJrcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GvDj7Lj3wxuV2/giphy.gif" width="350px"/>
 </p>
 
 ---
