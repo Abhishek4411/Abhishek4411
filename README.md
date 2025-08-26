@@ -37,16 +37,16 @@ I’m **Abhishek Patel**, a curious mind exploring **AI, Cloud, and Open Source*
 ---
 
 ## 💬 Random Dev Quote  
-Me Coding
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-Me while Eating
+
 ---
+-Me Coding
   <p align="center">
     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px"/>
   </p>
-
+-Me while Eating
   ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ---
 
