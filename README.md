@@ -1,11 +1,7 @@
-<!-- Profile README for Abhishek4411 -->
-
-<h1 align="center">
-  Hey there, I'm Abhishek 👋  
-</h1>
+<h1 align="center">Hey there, I'm Abhishek 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="400px" />
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="350px"/>
 </p>
 
 ---
@@ -14,11 +10,11 @@
 
 ✨ Welcome to my GitHub Universe!  
 I’m **Abhishek Patel**, a curious mind exploring **AI, Cloud, and Open Source**.  
-My motto:  
-> *Build. Break. Learn. Repeat.*  
 
-- 💡 Currently experimenting with **AI pipelines, ML Ops & DevOps automation**  
-- 🛠️ Always exploring **Cloud-native tech (K8s, Docker, Infra as Code)**  
+> **Build. Break. Learn. Repeat.**  
+
+- 💡 Experimenting with **AI pipelines, ML Ops & DevOps automation**  
+- 🛠️ Exploring **Cloud-native tech (K8s, Docker, Infra as Code)**  
 - 🎨 Love blending **tech + creativity** into cool projects  
 - 🎶 Vibing to: *Sapphire* 🌌 while coding 💻  
 
@@ -27,11 +23,7 @@ My motto:
 ## 🛠️ Tech Playground  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,git,github,linux,react,nodejs,mongodb,redis,azure,aws,gcp,prometheus,grafana,fastapi,go&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="400px">
+  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,git,github,linux,react,nodejs,mongodb,redis,azure,aws,gcp&perline=6" />
 </p>
 
 ---
@@ -39,20 +31,16 @@ My motto:
 ## 📊 GitHub Galaxy  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek4411&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek4411&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek4411&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek4411&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek4411&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🎶 Now Playing (Sapphire Vibes)  
+## 🎶 Sapphire Vibes  
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false" />
+  <img src="https://media.giphy.com/media/fdGbhuUQpGQkKuuzGU/giphy.gif" width="300px"/>
 </p>
 
 ---
@@ -67,11 +55,14 @@ My motto:
 
 ## 🌟 Fun Animated Add-ons  
 
-- 🪐 **Coding Time Tracker**  
-  ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Abhishek4411&theme=tokyonight&hide_border=true)
+- 🪐 **Coding Galaxy Animation**  
+  <p align="center">
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px"/>
+  </p>
 
 - 🐍 **Snake Eating My Contributions**  
-  ![Snake animation](https://github.com/Abhishek4411/Abhishek4411/blob/output/github-contribution-grid-snake.svg)
+  *(Requires one-time GitHub Actions setup, but no external login)*  
+  ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
