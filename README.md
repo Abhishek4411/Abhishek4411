@@ -1,6 +1,6 @@
-<h1 align="center">Hey there, I'm Abhishek 👋</h1>
+<h1 align="left">Hey there, I'm Abhishek 👋</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="350px"/>
 </p>
 
@@ -22,7 +22,7 @@ I’m **Abhishek Patel**, a curious mind exploring **AI, Cloud, and Open Source*
 
 ## 🛠️ Tech Playground  
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,git,github,linux,react,nodejs,mongodb,redis,azure,aws,gcp&perline=6" />
 </p>
 
@@ -30,7 +30,7 @@ I’m **Abhishek Patel**, a curious mind exploring **AI, Cloud, and Open Source*
 
 ## 📊 GitHub Galaxy  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhishek4411&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek4411&theme=tokyonight&hide_border=true" height="165"/>
 </p>
@@ -39,7 +39,7 @@ I’m **Abhishek Patel**, a curious mind exploring **AI, Cloud, and Open Source*
 
 ## 🎶 Sapphire Vibes  
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/fdGbhuUQpGQkKuuzGU/giphy.gif" width="300px"/>
 </p>
 
@@ -47,7 +47,7 @@ I’m **Abhishek Patel**, a curious mind exploring **AI, Cloud, and Open Source*
 
 ## 💬 Random Dev Quote  
 
-<p align="center">
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
@@ -56,7 +56,7 @@ I’m **Abhishek Patel**, a curious mind exploring **AI, Cloud, and Open Source*
 ## 🌟 Fun Animated Add-ons  
 
 - 🪐 **Coding Galaxy Animation**  
-  <p align="center">
+  <p align="left">
     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px"/>
   </p>
 
@@ -68,7 +68,7 @@ I’m **Abhishek Patel**, a curious mind exploring **AI, Cloud, and Open Source*
 
 ## 📫 Connect With Me  
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/abhishek4411">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -82,10 +82,10 @@ I’m **Abhishek Patel**, a curious mind exploring **AI, Cloud, and Open Source*
 
 ---
 
-<p align="center">
+<p align="left>
   <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="300px">
 </p>
 
-<p align="center">
+<p align="left">
   <i>✨ Keep exploring, keep learning, keep building. ✨</i>
 </p>
