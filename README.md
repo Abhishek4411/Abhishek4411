@@ -32,7 +32,6 @@ I’m **Abhishek Patel**, a curious mind exploring **AI, Cloud, and Open Source*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhishek4411&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek4411&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
